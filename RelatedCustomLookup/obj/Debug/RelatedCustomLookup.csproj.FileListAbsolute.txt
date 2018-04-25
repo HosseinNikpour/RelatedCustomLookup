@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\RelatedCustomLookup\bin\Debug\RelatedCustomLookup.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\RelatedCustomLookup\bin\Debug\RelatedCustomLookup.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\RelatedCustomLookup\obj\Debug\RelatedCustomLookup.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\RelatedCustomLookup\obj\Debug\RelatedCustomLookup.pdb

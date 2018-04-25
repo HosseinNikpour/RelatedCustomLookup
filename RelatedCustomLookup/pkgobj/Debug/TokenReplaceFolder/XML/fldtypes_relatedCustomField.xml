@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FieldTypes>
+
+  <FieldType>
+
+    <Field Name="TypeName">RelatedCustomLookupQuery</Field>
+    <Field Name="TypeDisplayName">کاستوم سلکت</Field>
+    <Field Name="TypeShortDescription">Related Custom Lookup Query</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="AllowBaseTypeRendering">True</Field>
+    <Field Name="ShowInListCreate">TRUE</Field>
+    <Field Name="ShowInSurveyCreate">TRUE</Field>
+    <Field Name="ShowInDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowInColumnTemplateCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateAuthoringPages">TRUE</Field>
+    <Field Name="FieldTypeClass">RelatedCustomLookup.RelatedCustomLookup,RelatedCustomLookup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8749e53bcf25eebf</Field>
+    <Field Name="InternalType">Lookup</Field>
+    <Field Name="SQLType">int</Field>
+    <Field Name="ParentType">Lookup</Field>
+    <Field Name="Sortable">TRUE</Field>
+    <Field Name="Filterable">TRUE</Field>
+    <Field Name="CAMLRendering">False</Field>
+    <Field Name="FieldEditorUserControl">/_controltemplates/15/RelatedCustomLookupFieldEditor.ascx</Field>
+    <PropertySchema>
+      <Fields>
+        <Field Name="IsFile" DisplayName="Is File" Description="Is File Location" Type="Text" Hidden="TRUE" >
+        </Field>
+        <Field Name="VolumeFile" DisplayName="Volume File" Description="Volume of File" Type="Text" Hidden="TRUE" >
+        </Field>
+        <Field Name="TypeFile" DisplayName="Type File" Description="Type of File" Type="Note" Hidden="TRUE" >
+        </Field>
+        <Field Name="ListNameLookup" DisplayName="ListName Lookup" Description="List Name lookup" Type="Text" Hidden="TRUE" >
+        </Field>
+        <Field Name="FieldTitleLookup" DisplayName="Field Title Lookup" Description="Field Title Lookup" Type="Text" Hidden="TRUE">
+        </Field>
+        <Field Name="FieldValueLookup" DisplayName="Field Value Lookup" Description="Field Value Lookup" Type="Text" Hidden="TRUE">
+        </Field>
+        <Field Name="RelatedFields" DisplayName="Related Fields" Description="Related Fields" Type="Note" Hidden="TRUE">
+        </Field>
+        <Field Name="QueryLookup" DisplayName="Query Lookup" Description="Query lookup" Type="Note"  Hidden="TRUE">
+        </Field>
+      </Fields>
+    </PropertySchema>
+    <RenderPattern Name="DisplayPattern">
+      <LookupColumn HTMLEncode="TRUE" AutoHyperLink="FALSE" />
+    </RenderPattern>
+  </FieldType>
+</FieldTypes>
+
+
+
+
+

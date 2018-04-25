@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="20e1acdc-1f8c-4b02-9c50-a680a7d86c2d" solutionId="20e1acdc-1f8c-4b02-9c50-a680a7d86c2d" resetWebServer="false" sharePointProductVersion="15.0" name="RelatedCustomLookup" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="18566359-924c-403c-b546-5da7e6362f14" />
+    <projectItemReference itemId="a5dbc3f9-518b-4e3a-8ab8-fd4af2078048" />
+    <projectItemReference itemId="6f8b9258-8f94-499e-b567-023ad6df2174" />
+  </projectItems>
+</package>
